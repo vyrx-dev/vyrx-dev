@@ -11,7 +11,7 @@ amit@github:~$ echo "Not afraid to :q!"
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vurx-dev&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vyrx-dev&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vyrx-dev&theme=github_dark" />
 </p>
 
