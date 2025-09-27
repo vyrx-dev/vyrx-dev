@@ -8,6 +8,13 @@ amit@github:~$ echo "Not afraid to :q!"
 - Use Arch, Neovim, and Hyprland to stay focused  
 - Always learning, always shipping
 
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vurx-dev&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vyrx-dev&theme=github_dark" />
+</p>
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:theamit.969@gmail.com) 
 [![X](https://img.shields.io/badge/-black.svg?logo=X&logoColor=white)](https://x.com/amitwt)
