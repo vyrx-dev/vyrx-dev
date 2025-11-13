@@ -12,7 +12,7 @@ amit@github:~$ echo "Not afraid to :q!"
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:theamit.969@gmail.com) 
 [![X](https://img.shields.io/badge/-black.svg?logo=X&logoColor=white)](https://x.com/amitwt)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@theamit.969) 
+[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amitwt) 
 [![Reddit](https://img.shields.io/badge/-Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Amit7985)
 
 ## 💻 Skills:
