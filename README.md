@@ -1,4 +1,6 @@
-
+```console
+amit@github:~$ echo "Not afraid to :q!"
+```
 # 👋 I'm Amit
 - Build full-stack apps
 - Spend most of my time in the terminal  
