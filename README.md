@@ -2,13 +2,13 @@
 amit@github:~$ echo "Not afraid to :q!"
 ```
 # 👋 I'm Amit
-- Build full-stack apps
+- Learning to build mobile apps
 - Spend most of my time in the terminal  
 - Like building TUIs
 - Interested in cybersecurity and how systems work
 - build things I wish already existed
 
-<b><i>Long term, I want to build applications for mobile as well</i></b>
+<b><i>I have a vested interest in making my own life hard</i></b>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:theamit.969@gmail.com) 
