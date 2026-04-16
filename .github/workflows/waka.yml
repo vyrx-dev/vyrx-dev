@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *' # Runs exactly at midnight UTC every day
   workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update-readme:
     name: Update Readme with WakaTime Metrics
