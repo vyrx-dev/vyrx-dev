@@ -1,43 +1,29 @@
-```console
-amit@github:~$ echo "Not afraid to :q!"
-```
-# 👋 I'm Amit
-- Learning to build mobile apps
-- Spend most of my time in the terminal  
-- Like building TUIs
-- Interested in cybersecurity and how systems work
-- build things I wish already existed
+<div align="center">
 
-<b><i>I have a vested interest in making my own life hard</i></b>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=building+things+I+wish+existed.;terminal+first%2C+always.)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:theamit.969@gmail.com) 
-[![X](https://img.shields.io/badge/-black.svg?logo=X&logoColor=white)](https://x.com/amitwt)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amitwt) 
-[![Reddit](https://img.shields.io/badge/-Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Amit7985)
+### Amit · vyrx
 
-## 💻 Skills:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+I spend most of my time building **terminal tools**, **mobile apps**, and things that probably shouldn't need to exist but do, interested in cybersecurity and love sharing my thoughts online.
 
-## 📊 GitHub Stats:
+---
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=theamit-969&label=Visitors&countColor=%23263759)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vyrx-dev&show_icons=true&hide=forks&count_private=true&theme=github_dark&bg_color=0d1117&title_color=8b949e&text_color=8b949e&icon_color=8b949e&hide_border=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyrx-dev&layout=compact&theme=github_dark&bg_color=0d1117&title_color=8b949e&text_color=8b949e&hide_border=true&langs_count=6&hide=css,html,scss" />
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vyrx-dev&bg_color=0d1117&color=FFFFFF&line=2c83f8&point=FFFFFF&hide_border=true&area=true&custom_title=Amit's%20Contribution%20Graph)
+<br><br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vyrx-dev&bg_color=0d1117&color=8b949e&line=8b949e&point=8b949e&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Amit's Contribution Graph" />
+
+<br>
+
+<img src="https://api.visitorbadge.io/api/visitors?path=theamit-969&label=VISITORS&countColor=%232d333b&labelColor=%2322272e&style=for-the-badge" alt="Visitors" />
+
+<br><br>
+
+</div>
