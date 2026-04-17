@@ -17,11 +17,11 @@ I spend most of my time building **terminal tools**, **mobile apps**, and things
 ```txt
 Total Time: 1 hr 8 mins
 
-Dart       46 mins         █████████████████░░░░░░░░   68.01 %
-Markdown   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-jsonc      8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-Go         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Lua        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Dart       46 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   68.01 %
+Markdown   12 mins         🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.69 %
+jsonc      8 mins          🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.17 %
+Go         0 secs          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.32 %
+Lua        0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.81 %
 ```
 
 <!--END_SECTION:waka-->
