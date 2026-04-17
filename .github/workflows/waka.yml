@@ -21,7 +21,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Update Wakapi stats
-          BAR_WIDTH: "25"
           TIME_RANGE: last_30_days
           SHOW_TIME: "True"
           SHOW_MASKED_TIME: "True"
