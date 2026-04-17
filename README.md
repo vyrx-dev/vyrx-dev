@@ -4,26 +4,14 @@
 
 ### Amit · vyrx
 
-I spend most of my time building **terminal tools**, **mobile apps**, and things that probably shouldn't need to exist but do. Interested in cybersecurity and I like sharing my thoughts online.
+I spend most of my time building **terminal tools**, **mobile apps**, and things that probably shouldn't need to exist but do. Writing sometimes on [Medium](https://medium.com/@amitwt).
+
+*I have a vested interest in making my own life hard.*
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=vyrx-dev&show_icons=true&hide=forks&count_private=true&theme=github_dark&bg_color=0d1117&title_color=8b949e&text_color=8b949e&icon_color=8b949e&hide_border=true&include_all_commits=true" />
-
-<br><br>
-
+#### this week
 <!--START_SECTION:waka-->
-
-```txt
-Total Time: 1 hr 8 mins
-
-Dart       46 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   68.01 %
-Markdown   12 mins         🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.69 %
-jsonc      8 mins          🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.17 %
-Go         0 secs          🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.32 %
-Lua        0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.81 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
