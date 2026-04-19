@@ -14,13 +14,13 @@ I spend most of my time building **terminal tools**, **mobile apps**, and things
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 8 mins
+Total Time: 3 hrs 42 mins
 
-Dart       46 mins         █████████████████░░░░░░░░   68.01 %
-Markdown   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-jsonc      8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-Go         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Lua        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Dart       2 hrs 24 mins   ████████████████▒░░░░░░░░   64.75 %
+Go         51 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
+Markdown   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+jsonc      8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Lua        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
