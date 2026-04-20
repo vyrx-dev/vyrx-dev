@@ -11,7 +11,6 @@ I spend most of my time building **terminal tools**, **mobile apps**, and things
 
 ---
 
-<br>
 
 <div align="center">
   <img src="https://custom-icon-badges.demolab.com/github/stars/vyrx-dev?color=0d1117&style=for-the-badge&labelColor=0d1117&logo=star&logoColor=E3B341&label=Total%20Stars" />
@@ -35,8 +34,7 @@ I spend most of my time building **terminal tools**, **mobile apps**, and things
   <img src="https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=483699" />
 </div>
 
-<br>
-
+---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyrx-dev&bg_color=0d1117&color=8b949e&line=8b949e&point=8b949e&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 <br>
