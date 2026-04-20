@@ -13,8 +13,6 @@ Building **terminal tools**, **mobile apps**, and things that shouldn't exist. W
   <img src="https://custom-icon-badges.demolab.com/github/stars/vyrx-dev?color=0d1117&style=for-the-badge&labelColor=0d1117&logo=star&logoColor=E3B341&label=Total%20Stars" />
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2" />
   <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B" />
