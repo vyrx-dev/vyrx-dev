@@ -11,20 +11,31 @@ I spend most of my time building **terminal tools**, **mobile apps**, and things
 
 ---
 
-<!--START_SECTION:waka-->
+<br>
 
-```txt
-Total Time: 3 hrs 44 mins
+<div align="center">
+  <img src="https://custom-icon-badges.demolab.com/github/stars/vyrx-dev?color=0d1117&style=for-the-badge&labelColor=0d1117&logo=star&logoColor=E3B341&label=Total%20Stars" />
+</div>
 
-Dart       2 hrs 24 mins   ████████████████░░░░░░░░░   64.29 %
-Go         51 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
-Markdown   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-jsonc      8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Lua        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-```
+<br>
 
-<!--END_SECTION:waka-->
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2" />
+  <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=2C2D72" />
+  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=57A143" />
+  <img src="https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=483699" />
+</div>
+
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyrx-dev&bg_color=0d1117&color=8b949e&line=8b949e&point=8b949e&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
