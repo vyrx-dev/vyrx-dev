@@ -32,7 +32,7 @@ Building **terminal tools**, **mobile apps**, and things that shouldn't exist. W
 
 <br>
 
----
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyrx-dev&bg_color=0d1117&color=8b949e&line=8b949e&point=8b949e&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
