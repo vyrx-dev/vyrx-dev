@@ -4,7 +4,7 @@
 
 ### vyrx
 
-Building **terminal tools**, **mobile apps**, and things that shouldn't exist. Writing occasionally on [Medium](https://medium.com/@amitwt).
+Building **terminal tools**, **mobile apps**, and things that shouldn't exist. [The setup behind it](https://github.com/vyrx-dev/dotfiles.git).
 
 <!-- *I have a vested interest in making my own life hard.*-->
 
