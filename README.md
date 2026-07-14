@@ -3,10 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=building+things+I+wish+existed.;terminal+first%2C+always.)](https://git.io/typing-svg)
 
 ### vyrx
+Building **backend systems**, **terminal applications**, and **mobile apps**.
 
-Building **terminal tools**, **mobile apps**, and things that shouldn't exist. [The setup behind it](https://github.com/vyrx-dev/dotfiles.git).
-
-<!-- *I have a vested interest in making my own life hard.*-->
+*I have a vested interest in making my own life hard.*
 
 
 <!-- <div align="center"> -->
@@ -15,12 +14,11 @@ Building **terminal tools**, **mobile apps**, and things that shouldn't exist. [
 
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2" />
   <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B" />
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=2C2D72" />
-  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
   <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
   <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
