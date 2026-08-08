@@ -1,12 +1,19 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=building+things+I+wish+existed.;terminal+first%2C+always.)](https://git.io/typing-svg)
+<!--- [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=building+things+I+wish+existed.;terminal+first%2C+always.)](https://git.io/typing-svg)
+-->
 
-### [vyrx](https://vyrx.dev)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=18181a&text=vyrx&textBg=false&reversal=false&fontAlign=50&fontAlignY=49&animation=fadein&fontColor=6a6a6c" />
+
 Building **backend systems**, **terminal applications**, and **mobile apps**.
 
-*I have a vested interest in making my own life hard.*
+<!---*I have a vested interest in making my own life hard.*-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=I+have+a+vested+interest+in+making+my+own+life+hard.)](https://git.io/typing-svg)
 
+[![Website](https://img.shields.io/badge/Blogs-18181a?style=for-the-badge&logo=googlechrome&logoColor=6a6a6c)](https://vyrx.dev/blog)
+[![Reddit](https://img.shields.io/badge/X-18181a?style=for-the-badge&logo=X&logoColor=6a6a6c)](https://x.com/amitwt)
+[![Discord](https://img.shields.io/badge/Discord-18181a?style=for-the-badge&logo=discord&logoColor=6a6a6c)](https://discord.com/users/1087059817367080980)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-18181a?style=for-the-badge&logo=kofi&logoColor=6a6a6c)](https://ko-fi.com/vyrxx)
 
 <!-- <div align="center"> -->
 <!--   <img src="https://custom-icon-badges.demolab.com/github/stars/vyrx-dev?color=0d1117&style=for-the-badge&labelColor=0d1117&logo=star&logoColor=E3B341&label=Total%20Stars" /> -->
