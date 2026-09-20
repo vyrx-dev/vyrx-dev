@@ -10,7 +10,7 @@ Building **backend systems**, **terminal applications**, and **mobile apps**.
 <!---*I have a vested interest in making my own life hard.*-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=I+have+a+vested+interest+in+making+my+own+life+hard.)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/Blogs-18181a?style=for-the-badge&logo=googlechrome&logoColor=6a6a6c)](https://vyrx.dev/blog)
+[![Website](https://img.shields.io/badge/Blogs-18181a?style=for-the-badge&logo=googlechrome&logoColor=6a6a6c)](https://heyamit.dev/blog)
 [![Reddit](https://img.shields.io/badge/X-18181a?style=for-the-badge&logo=X&logoColor=6a6a6c)](https://x.com/amitwt)
 [![Discord](https://img.shields.io/badge/Discord-18181a?style=for-the-badge&logo=discord&logoColor=6a6a6c)](https://discord.com/users/1087059817367080980)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-18181a?style=for-the-badge&logo=kofi&logoColor=6a6a6c)](https://ko-fi.com/vyrxx)
