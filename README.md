@@ -14,6 +14,7 @@ Building **backend systems**, **terminal applications**, and **mobile apps**.
 [![Reddit](https://img.shields.io/badge/X-18181a?style=for-the-badge&logo=X&logoColor=6a6a6c)](https://x.com/amitwt)
 [![Discord](https://img.shields.io/badge/Discord-18181a?style=for-the-badge&logo=discord&logoColor=6a6a6c)](https://discord.com/users/1087059817367080980)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-18181a?style=for-the-badge&logo=kofi&logoColor=6a6a6c)](https://ko-fi.com/vyrxx)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-18181a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=6a6a6c)](https://buymeacoffee.com/vyrx)
 
 <!-- <div align="center"> -->
 <!--   <img src="https://custom-icon-badges.demolab.com/github/stars/vyrx-dev?color=0d1117&style=for-the-badge&labelColor=0d1117&logo=star&logoColor=E3B341&label=Total%20Stars" /> -->
